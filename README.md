@@ -1,4 +1,6 @@
-# mailto-free
+# [Mailto](https://www.creative-tim.com/product/mailto-free)
+
+![mailto free](https://s3.amazonaws.com/creativetim_bucket/products/141/original/opt_mailto_thumbnail.jpg)
 
 Mailto is responsive & fully coded pack of HTML email templates that will maximize sales. Mailto Free version comes with 2 examples, the PRO version is coming with It was built by our collaborators from <a href="https://niceverynice.com/?ref=creativetim" target="_blank">Nice, Very Nice</a>. Designing simple cross-client HTML emails is difficult but designing emails that work well on any devices is much harder, fortunately not with Mailto. Inside Mailto you'll find pre-designed email templates for almost every occasion and everything in one place. <br><br>
 
